@@ -1,0 +1,13 @@
+
+@import url("imgstyle.css");
+.header > h1 {background-color: yellowgreen; float: left; width: 300px; position: relative; top: -23px;}
+
+.navbar  {float: right; width: 500px;}
+a {padding: 20px;}
+
+.center-content {position: relative; top: 150px;}
+
+h2 {color: aliceblue;}
+button {border-radius: 23px;}
+
+
